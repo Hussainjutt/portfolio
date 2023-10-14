@@ -26,7 +26,7 @@ import {
 } from "../assets";
 import MettleSol from "../assets/mettlesol.png";
 import Webevis from "../assets/webevis.webp";
-import dgSol from "../assets/dgSol.png";
+import dgSol from "../assets/dgsol.png";
 import p1 from "../assets/projects/cultural_engagment.png";
 import p2 from "../assets/projects/construction_builder.jpeg";
 import p3 from "../assets/projects/images.jpeg";
